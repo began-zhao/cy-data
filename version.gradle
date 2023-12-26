@@ -1,0 +1,21 @@
+//依赖版本管理
+ext {
+    version = [
+            "hutoolVersion"       : "5.1.0",
+            "guavaVersion"        : "30.0-jre",
+            "fastJsonVersion"     : "1.2.83",
+
+    ]
+    dependencies = [
+            //fastjson工具包
+            "fastjson"     : "com.alibaba:fastjson:${version.fastJsonVersion}",
+
+            //hutool工具包-
+            "hutool"       : "cn.hutool:hutool-all:${version.hutoolVersion}",
+
+            //guava工具包
+            "guava"        : "com.google.guava:guava:${version.guavaVersion}",
+    ]
+}
+
+

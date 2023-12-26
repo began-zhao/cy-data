@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cy-data.iml" filepath="$PROJECT_DIR$/.idea/modules/cy-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/application/cy-data.application.iml" filepath="$PROJECT_DIR$/.idea/modules/application/cy-data.application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/application/cy-data.application.main.iml" filepath="$PROJECT_DIR$/.idea/modules/application/cy-data.application.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/application/cy-data.application.test.iml" filepath="$PROJECT_DIR$/.idea/modules/application/cy-data.application.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/cy-data.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/cy-data.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/cy-data.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/cy-data.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/cy-data.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/cy-data.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/httpapi/cy-data.httpapi.iml" filepath="$PROJECT_DIR$/.idea/modules/httpapi/cy-data.httpapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/httpapi/cy-data.httpapi.main.iml" filepath="$PROJECT_DIR$/.idea/modules/httpapi/cy-data.httpapi.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/httpapi/cy-data.httpapi.test.iml" filepath="$PROJECT_DIR$/.idea/modules/httpapi/cy-data.httpapi.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/infrastructure/cy-data.infrastructure.iml" filepath="$PROJECT_DIR$/.idea/modules/infrastructure/cy-data.infrastructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/infrastructure/cy-data.infrastructure.main.iml" filepath="$PROJECT_DIR$/.idea/modules/infrastructure/cy-data.infrastructure.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/infrastructure/cy-data.infrastructure.test.iml" filepath="$PROJECT_DIR$/.idea/modules/infrastructure/cy-data.infrastructure.test.iml" />
+    </modules>
+  </component>
+</project>

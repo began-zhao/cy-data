@@ -1,0 +1,11 @@
+rootProject.name = 'cy-data'
+
+//应用层
+include(':application')
+//公共层
+include(':common')
+//api接口层
+include(':httpapi')
+//基础层
+include(':infrastructure')
+
