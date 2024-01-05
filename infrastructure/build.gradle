@@ -1,1 +1,4 @@
 description = 'cy-data.infrastructure'
+dependencies {
+    api project(':common')
+}
