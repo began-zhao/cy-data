@@ -4,6 +4,7 @@ ext {
             "hutoolVersion"       : "5.1.0",
             "guavaVersion"        : "30.0-jre",
             "fastJsonVersion"     : "1.2.83",
+            "lombok"              : "1.18.20",
 
     ]
     dependencies = [
@@ -15,6 +16,9 @@ ext {
 
             //guava工具包
             "guava"        : "com.google.guava:guava:${version.guavaVersion}",
+
+            //lombok
+            "lombok"       : "org.projectlombok:lombok:${version.lombok}",
     ]
 }
 
