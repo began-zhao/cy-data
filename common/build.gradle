@@ -1,1 +1,6 @@
 description = 'cy-data.common'
+dependencies {
+    api('org.projectlombok:lombok')
+    api('com.google.guava:guava')
+    annotationProcessor 'org.projectlombok:lombok'
+}

@@ -1,1 +1,8 @@
 description = 'cy-data.application'
+
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    implementation'com.github.ben-manes.caffeine:caffeine:2.8.4'
+    implementation'org.ehcache:ehcache:3.9.7'
+    api project(':common')
+}

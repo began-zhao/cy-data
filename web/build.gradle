@@ -1,0 +1,6 @@
+description = 'cy-data.web'
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    api project(':application')
+    api project(':common')
+}
