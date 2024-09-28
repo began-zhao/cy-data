@@ -1,5 +1,0 @@
-description = 'cy-data.httpapi'
-dependencies {
-    api project(':application')
-    api project(':infrastructure')
-}
